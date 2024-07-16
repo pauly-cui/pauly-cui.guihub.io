@@ -1,0 +1,690 @@
+{
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "长江索道",
+    "score": 8.7
+   },
+   "geometry": {
+    "coordinates": [
+     106.589285,
+     29.563863
+    ],
+    "type": "Point"
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "磁器口古镇",
+    "score": 7.9
+   },
+   "geometry": {
+    "coordinates": [
+     106.456424,
+     29.587707
+    ],
+    "type": "Point"
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "武隆天生三桥",
+    "score": 8.6
+   },
+   "geometry": {
+    "coordinates": [
+     107.811703,
+     29.439361
+    ],
+    "type": "Point"
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "乐和乐都动物主题乐园",
+    "score": 6.3
+   },
+   "geometry": {
+    "coordinates": [
+     105.919906,
+     29.295291
+    ],
+    "type": "Point"
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "洪崖洞民俗风貌区",
+    "score": 8.0
+   },
+   "geometry": {
+    "coordinates": [
+     106.584807,
+     29.568126
+    ],
+    "type": "Point"
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "重庆欢乐谷",
+    "score": 7.7
+   },
+   "geometry": {
+    "coordinates": [
+     106.521005,
+     29.672873
+    ],
+    "type": "Point"
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "重庆动物园",
+    "score": 8.2
+   },
+   "geometry": {
+    "coordinates": [
+     106.512622,
+     29.509218
+    ],
+    "type": "Point"
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "大足石刻",
+    "score": 7.7
+   },
+   "geometry": {
+    "coordinates": [
+     105.776324,
+     29.75248
+    ],
+    "type": "Point"
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "重庆园博园",
+    "score": 6.2
+   },
+   "geometry": {
+    "coordinates": [
+     106.560447,
+     29.686395
+    ],
+    "type": "Point"
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "仙女山国家森林公园",
+    "score": 7.9
+   },
+   "geometry": {
+    "coordinates": [
+     107.745381,
+     29.503326
+    ],
+    "type": "Point"
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "黑山谷风景区",
+    "score": 6.5
+   },
+   "geometry": {
+    "coordinates": [
+     107.004348,
+     28.893579
+    ],
+    "type": "Point"
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "武隆喀斯特旅游区",
+    "score": 8.6
+   },
+   "geometry": {
+    "coordinates": [
+     107.774556,
+     29.42398
+    ],
+    "type": "Point"
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "金佛山",
+    "score": 6.5
+   },
+   "geometry": {
+    "coordinates": [
+     107.133913,
+     29.055206
+    ],
+    "type": "Point"
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "万州大瀑布",
+    "score": 6.4
+   },
+   "geometry": {
+    "coordinates": [
+     108.263256,
+     30.663286
+    ],
+    "type": "Point"
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "汉海海洋公园",
+    "score": 5.2
+   },
+   "geometry": {
+    "coordinates": [
+     106.550483,
+     29.399657
+    ],
+    "type": "Point"
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "丰都鬼城名山景区",
+    "score": 7.0
+   },
+   "geometry": {
+    "coordinates": [
+     107.732401,
+     29.892005
+    ],
+    "type": "Point"
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "龙水峡地缝",
+    "score": 7.4
+   },
+   "geometry": {
+    "coordinates": [
+     107.798411,
+     29.408623
+    ],
+    "type": "Point"
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "重庆湖广会馆",
+    "score": 7.7
+   },
+   "geometry": {
+    "coordinates": [
+     106.59329,
+     29.563904
+    ],
+    "type": "Point"
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "白帝城.瞿塘峡景区",
+    "score": 7.7
+   },
+   "geometry": {
+    "coordinates": [
+     109.581821,
+     31.047242
+    ],
+    "type": "Point"
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "融汇温泉城",
+    "score": 5.9
+   },
+   "geometry": {
+    "coordinates": [
+     106.446044,
+     29.547815
+    ],
+    "type": "Point"
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "酉阳桃花源",
+    "score": 6.3
+   },
+   "geometry": {
+    "coordinates": [
+     108.756661,
+     28.857402
+    ],
+    "type": "Point"
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "巫山小三峡",
+    "score": 7.6
+   },
+   "geometry": {
+    "coordinates": [
+     109.89477,
+     31.086515
+    ],
+    "type": "Point"
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "云阳龙缸国家地质公园",
+    "score": 5.9
+   },
+   "geometry": {
+    "coordinates": [
+     109.017312,
+     30.683128
+    ],
+    "type": "Point"
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "四面山",
+    "score": 5.5
+   },
+   "geometry": {
+    "coordinates": [
+     106.397459,
+     28.622101
+    ],
+    "type": "Point"
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "南山植物园",
+    "score": 5.0
+   },
+   "geometry": {
+    "coordinates": [
+     106.635764,
+     29.561209
+    ],
+    "type": "Point"
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "芙蓉洞",
+    "score": 6.3
+   },
+   "geometry": {
+    "coordinates": [
+     107.916276,
+     29.225564
+    ],
+    "type": "Point"
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "金刀峡",
+    "score": 5.3
+   },
+   "geometry": {
+    "coordinates": [
+     106.624741,
+     30.028285
+    ],
+    "type": "Point"
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "816工程景区",
+    "score": 6.9
+   },
+   "geometry": {
+    "coordinates": [
+     107.519088,
+     29.560626
+    ],
+    "type": "Point"
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "三峡博物馆",
+    "score": 6.5
+   },
+   "geometry": {
+    "coordinates": [
+     106.55682,
+     29.56842
+    ],
+    "type": "Point"
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "武陵山大裂谷",
+    "score": 6.0
+   },
+   "geometry": {
+    "coordinates": [
+     107.585755,
+     29.495632
+    ],
+    "type": "Point"
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "白鹤梁水下博物馆",
+    "score": 6.2
+   },
+   "geometry": {
+    "coordinates": [
+     107.398822,
+     29.718466
+    ],
+    "type": "Point"
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "阿依河景区",
+    "score": 5.3
+   },
+   "geometry": {
+    "coordinates": [
+     108.12709,
+     29.15722
+    ],
+    "type": "Point"
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "重庆乌江龚滩旅游度假区",
+    "score": 5.8
+   },
+   "geometry": {
+    "coordinates": [
+     108.358152,
+     28.925779
+    ],
+    "type": "Point"
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "蚩尤九黎城",
+    "score": 6.6
+   },
+   "geometry": {
+    "coordinates": [
+     108.134658,
+     29.322644
+    ],
+    "type": "Point"
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "南天湖景区",
+    "score": 5.0
+   },
+   "geometry": {
+    "coordinates": [
+     107.829736,
+     29.579326
+    ],
+    "type": "Point"
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "人民大礼堂",
+    "score": 5.7
+   },
+   "geometry": {
+    "coordinates": [
+     106.560541,
+     29.567945
+    ],
+    "type": "Point"
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "重庆自然博物馆（新馆）",
+    "score": 6.1
+   },
+   "geometry": {
+    "coordinates": [
+     106.41421,
+     29.824815
+    ],
+    "type": "Point"
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "观音桥步行街",
+    "score": 6.0
+   },
+   "geometry": {
+    "coordinates": [
+     106.5385,
+     29.580817
+    ],
+    "type": "Point"
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "乌江画廊",
+    "score": 6.6
+   },
+   "geometry": {
+    "coordinates": [
+     108.220093,
+     29.197188
+    ],
+    "type": "Point"
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "重庆建川博物馆聚落",
+    "score": 5.4
+   },
+   "geometry": {
+    "coordinates": [
+     106.52902,
+     29.525626
+    ],
+    "type": "Point"
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "三峡之巅",
+    "score": 7.1
+   },
+   "geometry": {
+    "coordinates": [
+     109.63163,
+     31.032433
+    ],
+    "type": "Point"
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "钓鱼城",
+    "score": 5.1
+   },
+   "geometry": {
+    "coordinates": [
+     106.322661,
+     30.011052
+    ],
+    "type": "Point"
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "红池坝国家森林公园",
+    "score": 5.3
+   },
+   "geometry": {
+    "coordinates": [
+     109.08992,
+     31.549584
+    ],
+    "type": "Point"
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "美心红酒小镇",
+    "score": 5.0
+   },
+   "geometry": {
+    "coordinates": [
+     107.19231,
+     29.66876
+    ],
+    "type": "Point"
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "长嘉汇弹子石老街",
+    "score": 5.6
+   },
+   "geometry": {
+    "coordinates": [
+     106.593526,
+     29.584959
+    ],
+    "type": "Point"
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "丰都雪玉洞景区",
+    "score": 5.0
+   },
+   "geometry": {
+    "coordinates": [
+     107.804914,
+     29.788953
+    ],
+    "type": "Point"
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "石宝寨",
+    "score": 5.3
+   },
+   "geometry": {
+    "coordinates": [
+     108.198164,
+     30.425896
+    ],
+    "type": "Point"
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "巫峡·神女景区",
+    "score": 6.3
+   },
+   "geometry": {
+    "coordinates": [
+     109.968616,
+     31.052786
+    ],
+    "type": "Point"
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "小小三峡",
+    "score": 5.3
+   },
+   "geometry": {
+    "coordinates": [
+     109.893738,
+     31.242716
+    ],
+    "type": "Point"
+   }
+  }
+ ]
+}
