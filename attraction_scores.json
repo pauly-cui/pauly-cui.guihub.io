@@ -686,5 +686,6 @@
     "type": "Point"
    }
   }
- ]
+ ],
+ "type": "FeatureCollection"
 }
